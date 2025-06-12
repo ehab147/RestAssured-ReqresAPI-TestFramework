@@ -1,4 +1,4 @@
-# RestAssured-Reqres-TestFramework
+# RestAssured-ReqresAPI-TestFramework
 
 This is a lightweight and modular API testing framework built with **Java**, **RestAssured**, and **TestNG**, targeting the [Reqres.in](https://reqres.in) fake REST API. It demonstrates best practices in structuring API automation tests using utilities, models, and assertions.
 
